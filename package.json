@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-speed-benchmark",
+  "version": "1.0.0",
+  "description": "Node.js benchmark tool for sequential requests and download speed measurement",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "nodejs",
+    "benchmark",
+    "fetch",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT"
+}
